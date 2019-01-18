@@ -1,0 +1,48 @@
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+exclude:
+  - "/vendor/"
+
+title: #"IA, Datascience, Machine Learning"
+subtitle:
+email: sebastien-collet@orange.fr
+name: Sebastien Collet
+description:
+baseurl: ""
+url: "http://sebastien-collet.github.io"
+cover: "/assets/general/gol_loop.gif"
+logo: "/assets/icons/logo.png"
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: false
+highlightjs_theme: "monokai-sublime"
+descriptions:
+  - cat: Vulgarisation
+    desc: "Articles de présentation d'un sujet"
+
+  - cat: Technique
+    desc: "Articles techniques détaillant un sujet"
+social:
+  - name: Twitter
+    icon: twitter
+    username: 
+    url: 
+    desc: Follow me on Twitter
+    share: false
+
+  - name: GitHub
+    icon: github
+    username: sebastien-collet
+    url: https://github.com/sebastien-collet
+    desc: Fork me on GitHub
+    share: true
+
+  - name: LinkedIn
+    icon: linkedin
+    username: Sebastien Collet
+    url: https://www.linkedin.com/in/sébastien-collet-baa6a1101
+    desc: Connect with me on LinkedIn
+    share: false
