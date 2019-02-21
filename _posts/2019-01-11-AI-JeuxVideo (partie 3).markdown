@@ -21,7 +21,7 @@ L’utilisation de la génération procédurale a explosé depuis le milieu des 
 <br/>
 <figure align="center">
 	<img src="{{ site.baseurl }}/assets/Posts/IA_JV/Partie3/The_Original_Elite,_1984.jpg" title="elite" style="width:600px;"/> 
- <figcaption> <br/>Elite (1984) le simulateur de commerce spatial a quand même pris un petit coup de vieux
+ <figcaption> <br/> <div align="center">Elite (1984) le simulateur de commerce spatial a quand même pris un petit coup de vieux </div>
  </figcaption>
 </figure>
 <br/>
@@ -46,7 +46,7 @@ En plus de faciliter la phase de fabrication du contenu, la génération procéd
 <br/>
 <figure align="center">
 	<img src="{{ site.baseurl }}/assets/Posts/IA_JV/Partie3/full_2577.jpg" title="generation" style="width:600px;"/> 
- <figcaption> <br/>Exemple d’oeuvre générée procéduralement
+ <figcaption> <br/> <div align="center"> Exemple d’oeuvre générée procéduralement </div>
  </figcaption>
 </figure>
 <br/>
